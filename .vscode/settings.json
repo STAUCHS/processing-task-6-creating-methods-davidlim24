@@ -2,5 +2,6 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "/Users/limd1124/Downloads/core.jar"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
